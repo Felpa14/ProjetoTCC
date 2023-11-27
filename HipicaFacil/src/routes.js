@@ -21,10 +21,13 @@ export default function Routes(){
                 borderTopColor: 'transparent' 
             },
             activeTintColor : '',
+<<<<<<< HEAD
             tabStyle:{
                 paddingBottom: 5,
                 paddingTop:5,
             }
+=======
+>>>>>>> parent of 72f0908 (SabrainaModifications)
         }}
         >
         <Tab.Screen
