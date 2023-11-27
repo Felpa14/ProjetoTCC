@@ -19,7 +19,7 @@ export default function Routes(){
                 backgroundColor: '#121212',
                 borderTopColor: 'transparent' 
             },
-            activeTintColor : '',
+            activeTintColor : 'blue',
         }}
         >
         <Tab.Screen name= "Dashboard" component={Dashboard}/>
